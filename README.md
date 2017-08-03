@@ -2,7 +2,6 @@ UltimateOAuth
 =============
 *A __highly advanced__ Twitter library in PHP.*
 
-[日本語](https://github.com/Certainist/UltimateOAuth/blob/master/README-Japanese.md)
 
 @Version: 5.1.5  
 @Author : CertaiN  
@@ -15,7 +14,6 @@ UltimateOAuth
 - Not depends on **cURL**.
 - Not depends on any other files.
 - Supports both UNIX and Windows.
-
 
 ## \[Supported Classes and Methods\]
 
